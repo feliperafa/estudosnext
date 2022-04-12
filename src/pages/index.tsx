@@ -20,11 +20,6 @@ interface HomeProps {
 }
 
 export default function Home({ product }: HomeProps) {
-	// const x = fetch('http://localhost:3000/api/users')
-	// 	.then((response) => response.json())
-	// 	.then((re) => re);
-	// console.log(x);
-
 	return (
 		<>
 			<Head>
